@@ -13,7 +13,6 @@
 	- proper exception chain
 	- populate AWSDataObjects in SDB selects - or rather do AWS "search"/"select"s
 
-	- github project
 */
 	require_once("AWSSDKforPHP/sdk.class.php");
 	require_once("flexihash/include/init.php");
